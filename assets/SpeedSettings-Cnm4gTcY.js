@@ -1,0 +1,1 @@
+import{_ as e,a as t}from"./TrainingSettingsDialog-DByFjM0I.js";import{d as s,c as a,o,a as c}from"./index-Q0mHR_ax.js";import"./image-D_2fLl3L.js";const _={class:"settings"},n=s({__name:"SpeedSettings",setup(r){return(p,i)=>(o(),a("div",_,[c(e)]))}}),l=t(n,[["__scopeId","data-v-6f97c1a1"]]);export{l as default};

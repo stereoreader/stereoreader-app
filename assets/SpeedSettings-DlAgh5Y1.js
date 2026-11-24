@@ -1,0 +1,1 @@
+import{_ as e,a as t}from"./stereo_eggs-EkP2h7ej.js";import{d as s,c as a,o,a as c}from"./index-CcFfwKnD.js";import"./demo-ru-CIz558v4.js";const _={class:"settings"},n=s({__name:"SpeedSettings",setup(r){return(p,i)=>(o(),a("div",_,[c(e)]))}}),l=t(n,[["__scopeId","data-v-6f97c1a1"]]);export{l as default};
